@@ -1,5 +1,5 @@
 {
-  "name": "devfolio",
+  "name": "mallika",
   "version": "1.5.0",
   "description": "A simple, responsive, single-page portfolio and resume for developers built with Bulma, Sass, Font Awesome and Flickity.",
   "main": "webpack.config.js",
